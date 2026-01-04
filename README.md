@@ -3,16 +3,16 @@
 DSA practice, database-related projects, and building small problem-solving applications in C++ and Python.
 
 👯 I’m looking to collaborate on
-DSA-focused projects, web development basics, database design projects, and college/hackathon problem statements.
+DSA-focused projects, database design projects, and college/hackathon problem statements.
 
 🤝 I’m looking for help with
-Advanced DSA patterns, core CS subjects (DBMS, OS, CN), and placement preparation.
+Advanced DSA patterns, core CS subjects (DBMS, OS, CN), Web Development basics, and placement preparation.
 
 🌱 I’m currently learning
-Data Structures & Algorithms, DBMS, SQL, Operating Systems, Computer Networks, and React basics.
+Data Structures & Algorithms, DBMS, SQL, Operating Systems, Computer Networks.
 
 💬 Ask me about
-C/C++, Python, SQL queries, DBMS (1NF–BCNF), LeetCode problems, and core CS interview questions.
+C/C++, Python, SQL queries, DBMS, LeetCode problems, and core CS interview questions.
 
 ⚡ Fun fact
 I’ve solved 400+ LeetCode problems.
