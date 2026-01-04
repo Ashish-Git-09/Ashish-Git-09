@@ -1,5 +1,23 @@
 # 💫 About Me:
- 1. I’m currently working on - Currently working on DSA, SQL, databases, database related projects<br>2. I’m looking to collaborate on - DSA-focused projects, web development basics, database design projects, and college/hackathon problem statements.<br>3. I’m looking for help with - Advanced DSA patterns, SQL,  core CS subjects (DBMS, OS, CN), and placement preparation.<br>4. I’m currently learning - Data Structures & Algorithms, DBMS normalization & SQL, Operating Systems, Computer Networks.<br>5. Ask me about - C/C++, Python, SQL queries, DBMS, LeetCode problems, and core CS interview questions.<br>6. Fun fact -<br> I’ve solved 400+ LeetCode problems and enjoy breaking down complex problems into simple logic<br> I am a sports enthuziast, and also served in ncc<br>
+🔭 I’m currently working on
+DSA practice, database-related projects, and building small problem-solving applications in C++ and Python.
+
+👯 I’m looking to collaborate on
+DSA-focused projects, web development basics, database design projects, and college/hackathon problem statements.
+
+🤝 I’m looking for help with
+Advanced DSA patterns, core CS subjects (DBMS, OS, CN), and placement preparation.
+
+🌱 I’m currently learning
+Data Structures & Algorithms, DBMS, SQL, Operating Systems, Computer Networks, and React basics.
+
+💬 Ask me about
+C/C++, Python, SQL queries, DBMS (1NF–BCNF), LeetCode problems, and core CS interview questions.
+
+⚡ Fun fact
+I’ve solved 400+ LeetCode problems.
+I am a sports enthusiast.
+I have also served in NCC💡
 
 
 ## 🌐 Socials:
